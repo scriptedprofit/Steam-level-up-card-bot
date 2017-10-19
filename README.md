@@ -2,6 +2,7 @@
 A bot which buys and sell steam trading card sets. It will check which sets the user has.
 
 Features Commands:
+
 !buy [Amount in keys] Buy an amount of sets.
 
 !sell [Amount in keys] Sell an amount of cards to the bot
