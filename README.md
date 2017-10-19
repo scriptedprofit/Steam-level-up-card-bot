@@ -19,7 +19,9 @@ Demo: http://steamcommunity.com/profiles/76561198257636063/
 
 
 SET-UP:
+
 How to get your shared_secret & identity_secret:
+
 1: Go to the SDA(Steam Desktop Authenticator) directory. If you have encryption disabled go to step 3.
 
 2: Open SDA and hit "Manage Encryption". Fill in your encryption key and when asked to create a new one leave the text box blank. This 
