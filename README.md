@@ -1,4 +1,6 @@
 # Steam-level-up-card-bot
+A bot which buys and sell steam trading card sets. It will check which sets the user has.
+
 Features Commands:
 !buy [Amount in keys] Buy an amount of sets.
 
@@ -14,10 +16,10 @@ Features Commands:
 
 Demo: http://steamcommunity.com/profiles/76561198257636063/
 
-
-
-
-
+.
+.
+.
+.
 SET-UP:
 
 How to get your shared_secret & identity_secret:
