@@ -56,7 +56,7 @@ http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 8: Run the command: npm i
 
 9: To start your bot run this command in Putty: forever start index.js
-g
+
 
 Then your bot should be running!
 
