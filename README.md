@@ -1,7 +1,9 @@
 # Steam-level-up-card-bot
 [b]Features Commands[/b]
 !buy [Amount in keys] Buy an amount of sets.
+
 !sell [Amount in keys] Sell an amount of cards to the bot
+
 !level [Level] Check how much it will cost and how many sets it takes to get to a certain level. This is calculated from your current level.
 !check Check how many sets that you have not crafted yet are buyable, how much that will cost and how many sets the bot has in total.
 !sellcheck Check how many sets you own, that you can sell to the bot.
